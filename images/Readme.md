@@ -1,5 +1,5 @@
 Images Directory.
-All your images should go here.
-Images must be names so that they are self-explantory, as much as possible.
+All my (N02734910) images will be placed here.
+The names of the images are self-explantory.
 
 
