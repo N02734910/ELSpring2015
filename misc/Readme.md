@@ -1,3 +1,3 @@
-A directory for misellaneous stuff
+Miscellaneous Directory for (N02734910).
 Nothing really relevant should be here!
 
