@@ -24,6 +24,6 @@ def readTemp():
   data = cur.fetchone()
 
  return [currentTime, tempC, tempF]
-
+ 
 print "current temperature is:", readTemp()
 print "Temperature logged"
